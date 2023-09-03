@@ -1,0 +1,49 @@
+{
+  "totalCourses": 5,
+  "course1": {
+    "id": "001",
+    "name": "Mitos dan Fakta Kekerasan Seksual",
+    "description": "Selamat datang di Cerita Yuk! Dalam video ini, kami akan membahas topik yang sangat penting dan sensitif: \"Mitos dan Fakta Kekerasan Seksual.\" Kekerasan seksual adalah isu global yang mempengaruhi banyak individu dari berbagai latar belakang. Namun, masih banyak ketidakpahaman dan informasi yang salah mengenai topik ini.\n\nKami hadir untuk memecahkan beberapa mitos umum yang sering terkait dengan kekerasan seksual dan menggantinya dengan fakta yang didukung oleh penelitian dan sumber terpercaya. Dengan pemahaman yang lebih baik, kita dapat bersama-sama berkontribusi pada perubahan sosial yang positif.\n\nDalam video ini, Anda akan menemukan:\n\n1. Mitos Umum: Kami akan mengidentifikasi dan menguraikan mitos yang sering muncul terkait kekerasan seksual. Ini termasuk pandangan yang keliru dan bisa merugikan bagi korban.\n2. Fakta Mendalam: Melalui penelitian terbaru, kami akan memberikan fakta-fakta yang sesuai dengan situasi sebenarnya. Ini akan membantu kita memahami dampak yang lebih luas dari kekerasan seksual.\n3. Dampak Sosial: Kekerasan seksual bukan hanya masalah individu, tetapi juga memiliki dampak sosial yang signifikan. Kami akan menjelaskan bagaimana perubahan sikap dan tindakan kolektif dapat membantu mengatasi masalah ini.\n4. Sumber Daya dan Dukungan: Bagi mereka yang mungkin terpengaruh oleh topik ini, kami akan menyediakan informasi tentang sumber daya dan dukungan yang tersedia bagi korban kekerasan seksual.\nMari bersama-sama membuka wawasan kita, merangkul empati, dan berkontribusi pada dunia yang lebih aman dan inklusif. Jangan lupa untuk berlangganan saluran kami agar tidak ketinggalan video-video mendatang yang akan memberikan pemahaman lebih mendalam tentang isu-isu penting. Terima kasih telah bergabung dengan Cerita Yuk dalam perjalanan ini.",
+    "isWebUrl": false,
+    "imageUrl": "assets/images/sex1.jpg",
+    "totalTest": 3,
+    "fileName": "htmlcss"
+  },
+  "course2": {
+    "id": "002",
+    "name": "Fenomena Umum Kekerasan Seksual",
+    "description": "Selamat datang di saluran CeritaYuk! Dalam video ini, kita akan menggali lebih dalam tentang fenomena yang sangat serius dan penting, yaitu kekerasan seksual. CeritaYuk akan berusaha memberikan pemahaman yang komprehensif tentang fenomena ini serta membahas upaya-upaya yang bisa dilakukan untuk mencegahnya.\n\nKekerasan seksual adalah masalah masyarakat yang merugikan banyak individu. Dalam video ini, CeritaYuk akan menjelajahi berbagai aspek kekerasan seksual, termasuk definisi, jenis-jenisnya, faktor-faktor penyebab, dan dampak yang ditimbulkannya pada para korban.\n\nCeritaYuk juga akan membahas pentingnya kesadaran dan edukasi dalam mengatasi fenomena ini. Dengan pemahaman yang lebih baik, kita dapat bersama-sama membangun lingkungan yang lebih aman dan mendukung bagi semua orang.\n\nTidak hanya itu, CeritaYuk akan membicarakan tentang upaya-upaya pencegahan yang bisa dilakukan di berbagai tingkatan masyarakat, mulai dari individu hingga lembaga-lembaga pemerintah. Bersama-sama, kita bisa merangkul perubahan positif dan mengurangi angka kekerasan seksual.\n\nJangan lewatkan video ini yang penuh wawasan dan informasi penting. Mari bergandengan tangan untuk mendorong perubahan sosial yang lebih baik. Jangan lupa untuk like, bagikan, dan berlangganan saluran CeritaYuk agar tetap mendapat konten-konten bermanfaat seputar isu-isu sosial dan perkembangan diri. Terima kasih atas dukungannya!",
+    "isWebUrl": false,
+    "imageUrl": "assets/images/news4.jpg",
+    "totalTest": 3,
+    "fileName": "python"
+  },
+
+  "course3": {
+    "id": "003",
+    "name": "Mengungkap Penyebab Kekerasan Seksual: Pemahaman Mendalam",
+    "description": "Selamat datang di saluran CeritaYuk! Dalam video ini, kita akan menggali lebih dalam tentang fenomena yang sangat serius dan penting, yaitu kekerasan seksual. CeritaYuk akan berusaha memberikan pemahaman yang komprehensif tentang fenomena ini serta membahas upaya-upaya yang bisa dilakukan untuk mencegahnya.\n\nKekerasan seksual adalah masalah masyarakat yang merugikan banyak individu. Dalam video ini, CeritaYuk akan menjelajahi berbagai aspek kekerasan seksual, termasuk definisi, jenis-jenisnya, faktor-faktor penyebab, dan dampak yang ditimbulkannya pada para korban.\n\nCeritaYuk juga akan membahas pentingnya kesadaran dan edukasi dalam mengatasi fenomena ini. Dengan pemahaman yang lebih baik, kita dapat bersama-sama membangun lingkungan yang lebih aman dan mendukung bagi semua orang.\n\nTidak hanya itu, CeritaYuk akan membicarakan tentang upaya-upaya pencegahan yang bisa dilakukan di berbagai tingkatan masyarakat, mulai dari individu hingga lembaga-lembaga pemerintah. Bersama-sama, kita bisa merangkul perubahan positif dan mengurangi angka kekerasan seksual.\n\nJangan lewatkan video ini yang penuh wawasan dan informasi penting. Mari bergandengan tangan untuk mendorong perubahan sosial yang lebih baik. Jangan lupa untuk like, bagikan, dan berlangganan saluran CeritaYuk agar tetap mendapat konten-konten bermanfaat seputar isu-isu sosial dan perkembangan diri. Terima kasih atas dukungannya!",
+    "isWebUrl": false,
+    "imageUrl": "assets/images/news3.jpg",
+    "totalTest": 3,
+    "fileName": "reactjs"
+  },
+  "course4": {
+    "id": "004",
+    "name": "Mengatasi dan Menghadapi Kekerasan Seksual: Panduan dan Dukungan",
+    "description": "Selamat datang di saluran Cerita Yuk! Dalam video kali ini, Cerita Yuk akan membahas topik yang sangat penting dan sensitif: cara menghadapi kekerasan seksual. Kekerasan seksual adalah masalah serius yang dapat mempengaruhi banyak aspek kehidupan seseorang, dan penting bagi kita untuk belajar bagaimana mengatasi serta memberikan dukungan kepada mereka yang telah mengalami hal ini.\n\nDalam video ini, Cerita Yuk akan memberikan panduan langkah demi langkah tentang cara menghadapi kekerasan seksual. Kami akan membahas tanda-tanda yang perlu diwaspadai, langkah-langkah untuk melindungi diri, serta bagaimana mencari bantuan profesional dan dukungan emosional. Informasi yang diberikan didasarkan pada sumber terpercaya dan ahli di bidang ini.\n\nCerita Yuk percaya bahwa pengetahuan adalah kunci, dan dengan memahami lebih lanjut tentang cara menghadapi kekerasan seksual, kita dapat membantu melindungi diri sendiri dan orang-orang di sekitar kita. Jangan ragu untuk berbagi video ini dengan mereka yang mungkin membutuhkannya, karena penyebaran informasi adalah langkah pertama menuju perubahan positif.\n\nCerita Yuk berharap video ini dapat memberikan wawasan dan dukungan kepada semua yang menonton. Mari bersama-sama menciptakan lingkungan yang aman dan mendukung bagi semua orang. Jangan lupa untuk like, subscribe, dan tekan lonceng notifikasi agar tidak ketinggalan konten bermanfaat lainnya. Terima kasih telah bergabung dengan Cerita Yuk.",
+    "isWebUrl": false,
+    "imageUrl": "assets/images/video3.jpg",
+    "totalTest": 3,
+    "fileName": "flutter"
+  },
+  "course5": {
+    "id": "005",
+    "name": "Mengenal Lebih Dekat: 4 Jenis Kekerasan Seksual",
+    "description": "Selamat datang di saluran Cerita Yuk! Dalam video kali ini, kita akan membahas topik yang sangat penting dan serius: \"4 Jenis Kekerasan Seksual\". Mengetahui dan memahami berbagai jenis kekerasan seksual adalah langkah pertama dalam memerangi masalah ini dan menjaga keselamatan diri serta orang-orang di sekitar kita.\n\nCerita Yuk akan menjelaskan secara jelas dan informatif tentang empat jenis kekerasan seksual yang sering terjadi dalam masyarakat. Pertama, Cerita Yuk akan membahas pelecehan seksual, menguraikan tindakan-tindakan yang termasuk dalam kategori ini dan bagaimana kita bisa mengidentifikasinya. Kedua, pemerkosaan akan menjadi fokus selanjutnya, di mana Cerita Yuk akan membahas tanda-tanda, akibat psikologis, dan langkah-langkah pencegahannya.\n\nSelanjutnya, video ini akan membicarakan eksploitasi seksual, mengulas bagaimana hal ini dapat terjadi dalam berbagai konteks, seperti perdagangan manusia dan pornografi ilegal. Terakhir, namun tak kalah penting, Cerita Yuk akan membahas pelecehan seksual daring, menjelaskan risiko yang terkait dengan interaksi di dunia maya, serta memberikan saran-saran tentang cara melindungi diri saat beraktivitas online.\n\nTujuan video ini bukan hanya untuk memberikan informasi, tetapi juga untuk mengedukasi dan mendorong kesadaran mengenai masalah yang seringkali terabaikan ini. Mari bersama-sama melawan kekerasan seksual dengan pengetahuan dan kesadaran yang lebih baik. Jangan lupa untuk like, bagikan, dan berlangganan saluran Cerita Yuk agar dapat terus mendukung konten-konten edukatif seperti ini. Terima kasih telah menonton!",
+    "isWebUrl": false,
+    "imageUrl": "assets/images/video2.jpg",
+    "totalTest": 3,
+    "fileName": "mitos"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "760762236393",
+    "project_id": "cerita-7bd27",
+    "storage_bucket": "cerita-7bd27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760762236393:android:84257dab6de8bdf3019f78",
+        "android_client_info": {
+          "package_name": "com.example.ceritayuk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760762236393-musbukkjss50ku51uesti1q52t4flcn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ-eLuMdvSBj_t9Xs6RFaRWVoccut7q-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760762236393-musbukkjss50ku51uesti1q52t4flcn9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "760762236393-rh87jbikh8c932kpvde7egqu6qpi6eom.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ceritayuk"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760762236393:android:1f2476600d24a3fa019f78",
+        "android_client_info": {
+          "package_name": "com.example.shamo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760762236393-musbukkjss50ku51uesti1q52t4flcn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ-eLuMdvSBj_t9Xs6RFaRWVoccut7q-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760762236393-musbukkjss50ku51uesti1q52t4flcn9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "760762236393-rh87jbikh8c932kpvde7egqu6qpi6eom.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ceritayuk"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
