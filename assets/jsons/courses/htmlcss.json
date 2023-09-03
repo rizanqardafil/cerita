@@ -1,0 +1,108 @@
+{
+  "id": "001",
+  "name": "Mitos dan Fakta Kekerasan Seksual",
+  "description": "Selamat datang di Cerita Yuk! Dalam video ini, kami akan membahas topik yang sangat penting dan sensitif: \"Mitos dan Fakta Kekerasan Seksual.\" Kekerasan seksual adalah isu global yang mempengaruhi banyak individu dari berbagai latar belakang. Namun, masih banyak ketidakpahaman dan informasi yang salah mengenai topik ini.\n\nKami hadir untuk memecahkan beberapa mitos umum yang sering terkait dengan kekerasan seksual dan menggantinya dengan fakta yang didukung oleh penelitian dan sumber terpercaya. Dengan pemahaman yang lebih baik, kita dapat bersama-sama berkontribusi pada perubahan sosial yang positif.\n\nDalam video ini, Anda akan menemukan:\n\n1. Mitos Umum: Kami akan mengidentifikasi dan menguraikan mitos yang sering muncul terkait kekerasan seksual. Ini termasuk pandangan yang keliru dan bisa merugikan bagi korban.\n2. Fakta Mendalam: Melalui penelitian terbaru, kami akan memberikan fakta-fakta yang sesuai dengan situasi sebenarnya. Ini akan membantu kita memahami dampak yang lebih luas dari kekerasan seksual.\n3. Dampak Sosial: Kekerasan seksual bukan hanya masalah individu, tetapi juga memiliki dampak sosial yang signifikan. Kami akan menjelaskan bagaimana perubahan sikap dan tindakan kolektif dapat membantu mengatasi masalah ini.\n4. Sumber Daya dan Dukungan: Bagi mereka yang mungkin terpengaruh oleh topik ini, kami akan menyediakan informasi tentang sumber daya dan dukungan yang tersedia bagi korban kekerasan seksual.\nMari bersama-sama membuka wawasan kita, merangkul empati, dan berkontribusi pada dunia yang lebih aman dan inklusif. Jangan lupa untuk berlangganan saluran kami agar tidak ketinggalan video-video mendatang yang akan memberikan pemahaman lebih mendalam tentang isu-isu penting. Terima kasih telah bergabung dengan Cerita Yuk dalam perjalanan ini.",
+  "thumbnailUrl": "https://i.ytimg.com/vi/x606y4QWrxo/0.jpg",
+  "length": 1,
+  "mapping": {
+    "type1": "video",
+    "type2": "video",
+    "type3": "video",
+    "type4": "video",
+    "type5": "quiz",
+    "type6": "video",
+    "type7": "video",
+    "type8": "video",
+    "type9": "video",
+    "type10": "quiz",
+    "type11": "video",
+    "type12": "quiz"
+  },
+  "tutorials": {
+    "videos": "2qBQp5q23Uc, 2qBQp5q23Uc, 2qBQp5q23Uc, 2qBQp5q23Uc, 2qBQp5q23Uc, 2qBQp5q23Uc, 2qBQp5q23Uc, 2qBQp5q23Uc, 2qBQp5q23Uc",
+    "test1": {
+      "quizNo": 1,
+      "length": 3,
+      "quiz1": {
+        "question": "What is HTML?",
+        "option1": "A Markdown Language",
+        "option2": "A Designing Framework",
+        "option3": "A Programming Language",
+        "option4": "A Library for AI",
+        "correctAns": 1
+      },
+      "quiz2": {
+        "question": "What is the use of HTML?",
+        "option1": "To build Mobile Application",
+        "option2": "To Design Webpages",
+        "option3": "To train models in Machine Learnings",
+        "option4": "In Cyber Security",
+        "correctAns": 2
+      },
+      "quiz3": {
+        "question": "Full form of CSS?",
+        "option1": "Constant Style Sheet",
+        "option2": "Case Sensitive Style",
+        "option3": "Computer Style Sheet",
+        "option4": "Cascaded Style Sheet",
+        "correctAns": 4
+      }
+    },
+    "test2": {
+      "quizNo": 2,
+      "length": 3,
+      "quiz1": {
+        "question": "Which is HTML Element?",
+        "option1": "<p>",
+        "option2": "<dev>",
+        "option3": "<hello>",
+        "option4": "<html1>",
+        "correctAns": 1
+      },
+      "quiz2": {
+        "question": "What is the use of JavaScript?",
+        "option1": "In IOT",
+        "option2": "To make Webpage dynamic",
+        "option3": "To train models in Machine Learnings",
+        "option4": "In Cyber Security",
+        "correctAns": 2
+      },
+      "quiz3": {
+        "question": "How to get ID of html Element in JavaScript?",
+        "option1": "Using Variable",
+        "option2": "Using getByClass()",
+        "option3": "Using getElementById",
+        "option4": "By Reference",
+        "correctAns": 3
+      }
+    },
+    "test3": {
+      "quizNo": 3,
+      "length": 3,
+      "quiz1": {
+        "question": "How to add JavaScript to Html File?",
+        "option1": "Using JavaScript Code",
+        "option2": "Using linkRef",
+        "option3": "Using div Tag",
+        "option4": "Using script Tag",
+        "correctAns": 4
+      },
+      "quiz2": {
+        "question": "Which property is used to change fontSize?",
+        "option1": "font-radius",
+        "option2": "font-size",
+        "option3": "font-width",
+        "option4": "font-decorations",
+        "correctAns": 2
+      },
+      "quiz3": {
+        "question": "How to align text in center?",
+        "option1": "text-align: center",
+        "option2": "align-text: center",
+        "option3": "font-align: center",
+        "option4": "align-font: center",
+        "correctAns": 1
+      }
+    }
+  }
+}

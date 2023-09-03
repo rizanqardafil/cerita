@@ -1,0 +1,119 @@
+{
+  "id": "002",
+  "name": "Fenomena Umum Kekerasan Seksual",
+  "description": "Selamat datang di saluran CeritaYuk! Dalam video ini, kita akan menggali lebih dalam tentang fenomena yang sangat serius dan penting, yaitu kekerasan seksual. CeritaYuk akan berusaha memberikan pemahaman yang komprehensif tentang fenomena ini serta membahas upaya-upaya yang bisa dilakukan untuk mencegahnya.\n\nKekerasan seksual adalah masalah masyarakat yang merugikan banyak individu. Dalam video ini, CeritaYuk akan menjelajahi berbagai aspek kekerasan seksual, termasuk definisi, jenis-jenisnya, faktor-faktor penyebab, dan dampak yang ditimbulkannya pada para korban.\n\nCeritaYuk juga akan membahas pentingnya kesadaran dan edukasi dalam mengatasi fenomena ini. Dengan pemahaman yang lebih baik, kita dapat bersama-sama membangun lingkungan yang lebih aman dan mendukung bagi semua orang.\n\nTidak hanya itu, CeritaYuk akan membicarakan tentang upaya-upaya pencegahan yang bisa dilakukan di berbagai tingkatan masyarakat, mulai dari individu hingga lembaga-lembaga pemerintah. Bersama-sama, kita bisa merangkul perubahan positif dan mengurangi angka kekerasan seksual.\n\nJangan lewatkan video ini yang penuh wawasan dan informasi penting. Mari bergandengan tangan untuk mendorong perubahan sosial yang lebih baik. Jangan lupa untuk like, bagikan, dan berlangganan saluran CeritaYuk agar tetap mendapat konten-konten bermanfaat seputar isu-isu sosial dan perkembangan diri. Terima kasih atas dukungannya!",
+  "thumbnailUrl": "https://i.ytimg.com/vi/x606y4QWrxo/0.jpg",
+  "length": 1,
+  "mapping": {
+    "type1": "video",
+    "type2": "video",
+    "type3": "video",
+    "type4": "video",
+    "type5": "quiz",
+    "type6": "video",
+    "type7": "video",
+    "type8": "video",
+    "type9": "video",
+    "type10": "video",
+    "type11": "video",
+    "type12": "video",
+    "type13": "video",
+    "type14": "video",
+    "type15": "quiz",
+    "type16": "video",
+    "type17": "video",
+    "type18": "video",
+    "type19": "video",
+    "type20": "video",
+    "type21": "video",
+    "type22": "video",
+    "type23": "quiz"
+  },
+  "tutorials": {
+    "videos": "6a9P_I26Qdo,6a9P_I26Qdo,6a9P_I26Qdo,6a9P_I26Qdo,6a9P_I26Qdo,6a9P_I26Qdo,6a9P_I26Qdo,6a9P_I26Qdo,6a9P_I26Qdo,6a9P_I26Qdo,6a9P_I26Qdo,6a9P_I26Qdo,6a9P_I26Qdo,6a9P_I26Qdo,6a9P_I26Qdo,6a9P_I26Qdo,6a9P_I26Qdo,6a9P_I26Qdo,6a9P_I26Qdo,6a9P_I26Qdo",
+    "test1": {
+      "quizNo": 1,
+      "length": 4,
+      "quiz1": {
+        "question": "What is Python?",
+        "option1": "A Markdown Language",
+        "option2": "A Designing Framework",
+        "option3": "A Programming Language",
+        "option4": "A Library for AI",
+        "correctAns": 3
+      },
+      "quiz2": {
+        "question": "What is the Panda's in python?",
+        "option1": "Framework",
+        "option2": "Designing Tool",
+        "option3": "Library",
+        "option4": "None",
+        "correctAns": 3
+      },
+      "quiz3": {
+        "question": "In Which language is python written?",
+        "option1": "PHP",
+        "option2": "C",
+        "option3": "Ruby",
+        "option4": "Typescript",
+        "correctAns": 2
+      },
+      "quiz4": {
+        "question": "Which one of the following is the correct extension of the Python file?",
+        "option1": ".py",
+        "option2": ".python",
+        "option3": ".p",
+        "option4": "All of above",
+        "correctAns": 1
+      }
+    },
+    "test2": {
+      "quizNo": 2,
+      "length": 3,
+      "quiz1": {
+        "question": "Which character is used in Python to make a single line comment?",
+        "option1": "/",
+        "option2": "//",
+        "option3": "#",
+        "option4": "!",
+        "correctAns": 3
+      },
+      "quiz2": {
+        "question": "Python have which libraries",
+        "option1": "Pandas",
+        "option2": "NumPy",
+        "option3": "Tensorflow",
+        "option4": "All of above",
+        "correctAns": 4
+      },
+      "quiz3": {
+        "question": "Tensorflow library is used for ?",
+        "option1": "Data science",
+        "option2": "Machine Learning",
+        "option3": "Graphs",
+        "option4": "Designing",
+        "correctAns": 2
+      }
+    },
+    "test3": {
+      "quizNo": 2,
+      "length": 2,
+      "quiz1": {
+        "question": "NumPy library is used for ?",
+        "option1": "Data science",
+        "option2": "Machine Learning",
+        "option3": "Graphs",
+        "option4": "Designing",
+        "correctAns": 1
+      },
+      "quiz2": {
+        "question": "Which framwork is used for Web development",
+        "option1": "NumPy",
+        "option2": "Tensorflow",
+        "option3": "Pandas",
+        "option4": "Django",
+        "correctAns": 4
+      }
+    }
+  }
+}
